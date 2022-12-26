@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "71002133649",
+    "project_id": "revenuesharinginvest-44354",
+    "storage_bucket": "revenuesharinginvest-44354.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71002133649:android:db4bf5e943a72558339b30",
+        "android_client_info": {
+          "package_name": "com.krowd.rsi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71002133649-p0ohcjusuhokufk214mrens0qfdo4st0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.krowd.rsi",
+            "certificate_hash": "bcdd75b6a02647e71fa482c6f2a779d33c676fb3"
+          }
+        },
+        {
+          "client_id": "71002133649-56vbtqhgpccg2o58cb156qt8552kevcm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkKSxKIl_IAs5RgWIqudztqrsJSUkPKDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71002133649-56vbtqhgpccg2o58cb156qt8552kevcm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
